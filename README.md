@@ -1,6 +1,8 @@
 # Ham Scripted - High Perf JS Primitives
 
 
+NOTE: this fork exists only to produce a clojars artefact of ham-scripted.
+
 ## Progress so far
 
 Simple tests are at the bottom of the file.

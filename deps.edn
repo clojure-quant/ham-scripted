@@ -13,4 +13,8 @@
    :extra-paths ["test" "resources"]
    :main-opts ["-m" "shadow.cljs.devtools.cli"]}
   ;;run with clj -X:depstar
+  ; github ci  
+  :build {:deps {io.github.clojure/tools.build {:mvn/version "0.9.6"}
+                 slipset/deps-deploy {:mvn/version "0.2.1"}}
+          :ns-default build}
   }}
