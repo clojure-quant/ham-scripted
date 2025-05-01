@@ -3,6 +3,9 @@
 
 NOTE: this fork exists only to produce a clojars artefact of ham-scripted.
 
+[![GitHub Actions status |clojure-quant/ham-scripted](https://github.com/clojure-quant/ham-scripted/workflows/CI/badge.svg)](https://github.com/clojure-quant/ham-scripted/actions?workflow=CI)[![Clojars Project](https://img.shields.io/clojars/v/io.github.clojure-quant/ham-scripted.svg)](https://clojars.org/io.github.clojure-quant/ham-scripted)
+
+
 ## Progress so far
 
 Simple tests are at the bottom of the file.
